@@ -1,4 +1,4 @@
-1. Check where am I:
+1. Check where I am:
 $ pwd
 Results:/d/HW_QA_Vadim's
 
