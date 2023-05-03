@@ -1,7 +1,6 @@
 ## 1. Check where am I:
 ```
 $pwd
-/d/HW_QA_Vadim's
 ```
 *The current directory is /<HW_QA_Vadim's>.*
 ***
